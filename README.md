@@ -1,6 +1,12 @@
 # Python
+
 This repository contains Python code, practice exercises, and small projects as I learn Python from scratch. The goal is to track my progress, practice coding concepts like loops, functions, OOP, and explore Python libraries. New code and projects will be added regularly as I learn more.
 <h1>Hi there 👋, I'm [Your Name]</h1>
+
+<h3>🐍 Python</h3>
+<p>
+  <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="Python Logo" width="150">
+</p>
 
 <h3>🌱 About Me</h3>
 <ul>
@@ -22,12 +28,6 @@ This repository contains Python code, practice exercises, and small projects as 
   <li><strong>Project 2:</strong> [Project Name] – short description</li>
 </ul>
 
-<h3>📫 Connect with Me</h3>
-<ul>
-  <li>GitHub: <a href="https://github.com/yourusername">yourusername</a></li>
-  <li>LinkedIn: <a href="Your LinkedIn">Your LinkedIn</a></li>
-  <li>Twitter: <a href="Your Twitter">Your Twitter</a></li>
-</ul>
 
 <h3>⚡ Fun Fact</h3>
 <ul>
@@ -35,8 +35,5 @@ This repository contains Python code, practice exercises, and small projects as 
   <li>Always curious and ready to take on new challenges!</li>
 </ul>
 
-<h3>🐍 Python</h3>
-<p>
-  <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="Python Logo" width="150">
-</p>
+
 
